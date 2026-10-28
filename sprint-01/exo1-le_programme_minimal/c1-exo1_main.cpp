@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<iostream>
 
 int main(){
     printf(" je repond au nom de NKENFACK\n");
