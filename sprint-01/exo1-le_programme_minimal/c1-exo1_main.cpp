@@ -1,8 +1,8 @@
 #include<iostream>
 
 int main(){
-    printf(" je repond au nom de NKENFACK\n");
-    printf(" je suis a Yaounde\n");
+   std::cout << " je repond au nom de NKENFACK" << std::endl;
+    std::cout << " je suis a Yaounde" << std::endl;
 
     return 0;
 }
