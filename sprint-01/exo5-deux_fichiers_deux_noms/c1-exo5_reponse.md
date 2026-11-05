@@ -1,0 +1,1 @@
+Deux compilations successives du même fichier source produisent souvent des exécutables différents parce que le compilateur et l’éditeur de liens insèrent des métadonnées variables (timestamps, adresses, sections de débogage, etc.) dans le binaire.
