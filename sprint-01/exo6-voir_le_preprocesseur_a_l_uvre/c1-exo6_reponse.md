@@ -1,0 +1,1 @@
+il y'a 35857 ligne de de code dans sortie.txt, par rapport a au 6 ligne, elle est plus grande 
